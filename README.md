@@ -2,7 +2,7 @@
 
 **Excel · XLOOKUP · UNIQUE · Pivot Tables · Slicers · Conditional Formatting · Dashboards**
 
-My background is in manufacturing: I was a production scheduler at one company and worked in customer success at another. I worked with the same daily reports everyone else got. The difference was that I kept asking the reports questions. Which of these past-due dollars can we actually move? How many of these orders are right? Who is asking for all these samples?
+My background is in manufacturing: I was a production scheduler at one company and worked as the front office coordinator at another. I worked with the same daily reports everyone else got. The difference was that I kept asking the reports questions. Which of these past-due dollars can we actually move? How many of these orders are right? Who is asking for all these samples?
 
 Excel is where I found the answers. These projects are real work I did for two manufacturers, rebuilt with synthetic data so they can be shared.
 
