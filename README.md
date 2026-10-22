@@ -1,12 +1,13 @@
 # Hi, I'm Ann
 
 **Excel · XLOOKUP · UNIQUE · Pivot Tables · Slicers · Conditional Formatting · Dashboards**
+**Accounts Payable · Accounts Receivable · Purchasing · Operations · Junior Data Analytics**
 
-My background is in manufacturing: I was a production scheduler at one company and worked as the front office coordinator at another. I worked with the same daily reports everyone else got. The difference was that I kept asking the reports questions. Which of these past-due dollars can we actually move? How many of these orders are right? Who is asking for all these samples?
+My background has mainly been in manufacturing: I was a production scheduler at one company and worked as the front office coordinator at another. I worked with the same daily reports everyone else got. The difference was that I kept asking the reports questions. Which of these past-due dollars can we actually move? How many of these orders are right? Who is asking for all these samples?
 
-Excel is where I found the answers. These projects are real work I did for two manufacturers, rebuilt with synthetic data so they can be shared.
+Excel is where I found the answers, and I continue to grow my tool kit within it, as well as with SQL and Tableau. Most of these projects are real work I did for two manufacturers, rebuilt with synthetic data so they can be shared. A few are just for fun, like tracking October hurricane landfalls, because I can’t resist a good dataset.
 
-I'm finishing a **Data Analytics certificate at Waubonsee Community College** and looking for a **Junior Data Analyst** role.
+I’m finishing a **Data Analytics certificate** at **Waubonsee Community College**. Whether you need someone to keep your AP/AR running cleanly or a junior analyst who already knows how the numbers get made, I’d love to talk.
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/ann-leclercq)**
 
