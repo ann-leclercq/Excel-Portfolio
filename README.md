@@ -4,11 +4,11 @@
 
 **Accounts Payable · Accounts Receivable · Purchasing · Operations · Junior Data Analytics**
 
-My background has mainly been in manufacturing: I was a production scheduler at one company and worked as the front office coordinator at another. I worked with the same daily reports everyone else got. The difference was that I kept asking the reports questions. Which of these past-due dollars can we actually move? How many of these orders are right? Who is asking for all these samples?
+I’ve spent 30+ years working my way up through office operations, and most of the last several were in manufacturing: as a production scheduler at one company and the front office coordinator at another. Along the way I’ve also managed an office, handled accounts receivable and collections, and supported a sales team. In every role, I've worked with the same daily reports everyone else gets. The difference was that I kept asking the reports questions. Which of these past-due dollars can we actually move? How many of these orders are right? Who is asking for all these samples?
 
 Excel is where I found the answers, and I continue to grow my tool kit within it, as well as with SQL and Tableau. Most of these projects are real work I did for two manufacturers, rebuilt with synthetic data so they can be shared. A few are just for fun, like tracking October hurricane landfalls, because I can’t resist a good dataset.
 
-I’m finishing a **Data Analytics certificate** at **Waubonsee Community College**. Whether you need someone to keep your AP/AR running cleanly or a junior analyst who already knows how the numbers get made, I’d love to talk.
+I’m currently finishing a **Data Analytics certificate** at **Waubonsee Community College**. Whether you need someone to keep your AP/AR running cleanly or a junior analyst who already knows how the numbers get made, I’d love to talk.
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/ann-leclercq)**
 
@@ -20,7 +20,6 @@ I’m finishing a **Data Analytics certificate** at **Waubonsee Community Colleg
 | **[Sales Order / PO Audit](manufacturer-two-so-po-audit/)**<br>Manufacturer Two · caps and closures | Out of 65–85 sales orders a day, how many were entered correctly, and what went wrong with the rest? *(It caught a **57,000-unit order that should have been 5,700**.)* | COUNTA(UNIQUE), data validation dropdowns, pivot tables, color-coded pie chart |
 | **[Sample Tracker Dashboard](manufacturer-two-sample-tracker/)**<br>Manufacturer Two · caps and closures | How many samples are we sending, who are the heaviest requesters, and are we paying for shipments that actually went out? | Excel tables, pivot tables with date grouping, slicers, line chart |
 
-**Coming soon:** a text and array functions project, and Tableau.
 
 ## About the data
 
