@@ -1,0 +1,263 @@
+escalation_id,date_logged,quote_id,line_no,logged_by,root_cause,dollar_impact,status,resolved_date
+ESC-0001,2026-08-15,260269,1,K. Moss,No issue - pricing correct,0,Resolved,2026-08-15
+ESC-0002,2026-08-18,260474,3,K. Moss,No issue - pricing correct,0,Resolved,2026-08-18
+ESC-0003,2026-08-20,260030,1,A. Delgado,Expired quote at order entry,24250.64,Resolved,2026-08-21
+ESC-0004,2026-08-21,260541,2,K. Moss,Stale cost - not repriced,1535.5,Resolved,2026-08-24
+ESC-0005,2026-08-22,260028,1,J. Pruitt,Expired quote at order entry,5775.0,Resolved,2026-08-25
+ESC-0006,2026-08-22,260181,1,J. Pruitt,Expired quote at order entry,4190.22,Resolved,2026-08-24
+ESC-0007,2026-08-23,260017,1,K. Moss,Expired quote at order entry,1671.4,Resolved,2026-08-28
+ESC-0008,2026-08-25,260602,2,J. Pruitt,No issue - pricing correct,0,Resolved,2026-08-25
+ESC-0009,2026-08-25,260563,3,A. Delgado,No issue - pricing correct,0,Resolved,2026-08-25
+ESC-0010,2026-08-26,260412,1,K. Moss,No issue - pricing correct,0,Resolved,2026-08-26
+ESC-0011,2026-08-26,260503,2,K. Moss,No issue - pricing correct,0,Resolved,2026-08-26
+ESC-0012,2026-08-27,260090,1,K. Moss,Expired quote at order entry,2963.6,Resolved,2026-09-01
+ESC-0013,2026-08-29,260519,3,J. Pruitt,No issue - pricing correct,0,Resolved,2026-08-29
+ESC-0014,2026-08-30,260633,4,J. Pruitt,Wrong customer segment tier,4520.2,Resolved,2026-09-02
+ESC-0015,2026-08-30,260571,2,K. Moss,No issue - pricing correct,0,Resolved,2026-08-30
+ESC-0016,2026-08-31,260163,1,A. Delgado,Expired quote at order entry,2364.92,Resolved,2026-09-04
+ESC-0017,2026-08-31,260458,1,A. Delgado,No issue - pricing correct,0,Resolved,2026-08-31
+ESC-0018,2026-08-31,260543,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-08-31
+ESC-0019,2026-09-02,260564,3,J. Pruitt,Stale cost - not repriced,1298.74,Resolved,2026-09-04
+ESC-0020,2026-09-02,260583,1,K. Moss,No issue - pricing correct,0,Resolved,2026-09-02
+ESC-0021,2026-09-02,260575,4,A. Delgado,No issue - pricing correct,0,Resolved,2026-09-02
+ESC-0022,2026-09-03,260583,2,J. Pruitt,Markup below approved,13780.44,Resolved,2026-09-03
+ESC-0023,2026-09-03,260702,2,A. Delgado,Stale cost - not repriced,2945.92,Resolved,2026-09-07
+ESC-0024,2026-09-04,260686,4,J. Pruitt,Data entry error,-3778.68,Resolved,2026-09-07
+ESC-0025,2026-09-05,260240,1,K. Moss,Expired quote at order entry,14373.1,Resolved,2026-09-06
+ESC-0026,2026-09-06,260549,1,A. Delgado,Wrong customer segment tier,68997.0,Resolved,2026-09-11
+ESC-0027,2026-09-06,260760,2,K. Moss,Stale cost - not repriced,16798.6,Resolved,2026-09-12
+ESC-0028,2026-09-07,260551,4,A. Delgado,Markup below approved,27983.0,Resolved,2026-09-11
+ESC-0029,2026-09-07,260566,1,J. Pruitt,Stale cost - not repriced,25617.0,Resolved,2026-09-08
+ESC-0030,2026-09-07,260668,2,A. Delgado,Stale cost - not repriced,8005.75,Resolved,2026-09-08
+ESC-0031,2026-09-07,260263,1,A. Delgado,Expired quote at order entry,2998.8,Resolved,2026-09-09
+ESC-0032,2026-09-08,260534,1,J. Pruitt,Stale cost - not repriced,22807.56,Resolved,2026-09-10
+ESC-0033,2026-09-08,260574,2,A. Delgado,Stale cost - not repriced,69863.34,Resolved,2026-09-13
+ESC-0034,2026-09-10,260811,2,J. Pruitt,Wrong customer segment tier,3674.0,Resolved,2026-09-15
+ESC-0035,2026-09-10,260311,1,J. Pruitt,Expired quote at order entry,22996.96,Resolved,2026-09-13
+ESC-0036,2026-09-10,260777,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-10
+ESC-0037,2026-09-10,260716,1,K. Moss,No issue - pricing correct,0,Resolved,2026-09-10
+ESC-0038,2026-09-11,260782,1,A. Delgado,Stale cost - not repriced,2067.65,Resolved,2026-09-13
+ESC-0039,2026-09-12,260767,2,K. Moss,Data entry error,-9748.96,Resolved,2026-09-14
+ESC-0040,2026-09-13,260810,2,A. Delgado,No issue - pricing correct,0,Resolved,2026-09-13
+ESC-0041,2026-09-14,260539,2,K. Moss,Stale cost - not repriced,1642.56,Resolved,2026-09-14
+ESC-0042,2026-09-14,260776,3,K. Moss,Stale cost - not repriced,2397.1,Resolved,2026-09-19
+ESC-0043,2026-09-14,260837,6,K. Moss,Stale cost - not repriced,1746.4,Resolved,2026-09-17
+ESC-0044,2026-09-14,260881,4,K. Moss,Stale cost - not repriced,1696.08,Open,
+ESC-0045,2026-09-14,260063,1,J. Pruitt,Expired quote at order entry,4253.83,Resolved,2026-09-15
+ESC-0046,2026-09-14,260095,1,K. Moss,Expired quote at order entry,466.75,Resolved,2026-09-19
+ESC-0047,2026-09-16,260810,3,A. Delgado,Stale cost - not repriced,4375.4,Resolved,2026-09-19
+ESC-0048,2026-09-16,260735,1,K. Moss,No issue - pricing correct,0,Resolved,2026-09-16
+ESC-0049,2026-09-16,260792,3,K. Moss,No issue - pricing correct,0,Resolved,2026-09-16
+ESC-0050,2026-09-17,260517,1,A. Delgado,Stale cost - not repriced,1211.52,Resolved,2026-09-17
+ESC-0051,2026-09-17,260562,1,J. Pruitt,Stale cost - not repriced,2900.75,Open,
+ESC-0052,2026-09-18,260565,4,K. Moss,Markup below approved,26507.25,Open,
+ESC-0053,2026-09-18,260110,1,J. Pruitt,Expired quote at order entry,3603.96,Resolved,2026-09-19
+ESC-0054,2026-09-18,260735,5,K. Moss,No issue - pricing correct,0,Resolved,2026-09-18
+ESC-0055,2026-09-19,260860,3,A. Delgado,Wrong customer segment tier,9964.62,Resolved,2026-09-21
+ESC-0056,2026-09-19,260936,5,J. Pruitt,Stale cost - not repriced,723.0,Resolved,2026-09-20
+ESC-0057,2026-09-19,260866,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-19
+ESC-0058,2026-09-20,260629,2,J. Pruitt,Stale cost - not repriced,2484.08,Resolved,2026-09-23
+ESC-0059,2026-09-20,260850,3,K. Moss,Stale cost - not repriced,9045.1,Resolved,2026-09-24
+ESC-0060,2026-09-20,260858,1,K. Moss,Stale cost - not repriced,4826.07,Resolved,2026-09-24
+ESC-0061,2026-09-20,260920,1,J. Pruitt,Stale cost - not repriced,1384.08,Resolved,2026-09-26
+ESC-0062,2026-09-20,260096,1,J. Pruitt,Expired quote at order entry,34030.64,Resolved,2026-09-21
+ESC-0063,2026-09-20,260762,3,K. Moss,No issue - pricing correct,0,Resolved,2026-09-20
+ESC-0064,2026-09-20,260774,3,K. Moss,No issue - pricing correct,0,Resolved,2026-09-20
+ESC-0065,2026-09-20,260877,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-20
+ESC-0066,2026-09-20,260703,2,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-20
+ESC-0067,2026-09-21,260558,2,A. Delgado,Stale cost - not repriced,7163.28,Resolved,2026-09-22
+ESC-0068,2026-09-21,260870,1,J. Pruitt,Wrong customer segment tier,-17542.98,Resolved,2026-09-22
+ESC-0069,2026-09-21,260136,1,J. Pruitt,Expired quote at order entry,5801.5,Resolved,2026-09-24
+ESC-0070,2026-09-22,260526,2,J. Pruitt,Markup below approved,6532.5,Resolved,2026-09-28
+ESC-0071,2026-09-22,260608,3,J. Pruitt,Markup below approved,1161.6,Resolved,2026-09-28
+ESC-0072,2026-09-22,260843,4,J. Pruitt,Data entry error,-16891.28,Resolved,2026-09-26
+ESC-0073,2026-09-22,260855,3,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-22
+ESC-0074,2026-09-24,260522,2,A. Delgado,Stale cost - not repriced,11186.8,Resolved,2026-09-30
+ESC-0075,2026-09-24,260683,2,A. Delgado,Data entry error,-3443.1,Resolved,2026-09-27
+ESC-0076,2026-09-24,260981,2,K. Moss,Stale cost - not repriced,289.56,Resolved,2026-09-25
+ESC-0077,2026-09-24,260394,1,J. Pruitt,Expired quote at order entry,1083.84,Resolved,2026-09-24
+ESC-0078,2026-09-24,260520,1,J. Pruitt,Expired quote at order entry,1026.68,Resolved,2026-09-29
+ESC-0079,2026-09-25,260643,2,J. Pruitt,Markup below approved,19174.8,Open,
+ESC-0080,2026-09-25,260857,2,J. Pruitt,Stale cost - not repriced,1809.02,Resolved,2026-09-25
+ESC-0081,2026-09-25,260936,3,K. Moss,Stale cost - not repriced,1269.25,Resolved,2026-09-29
+ESC-0082,2026-09-25,260941,1,J. Pruitt,Stale cost - not repriced,40561.6,Resolved,2026-09-27
+ESC-0083,2026-09-25,260593,1,K. Moss,Expired quote at order entry,3618.04,Resolved,2026-09-26
+ESC-0084,2026-09-25,260973,2,K. Moss,No issue - pricing correct,0,Resolved,2026-09-25
+ESC-0085,2026-09-25,260895,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-25
+ESC-0086,2026-09-26,260538,3,K. Moss,Data entry error,-4127.0,Resolved,2026-09-27
+ESC-0087,2026-09-26,260654,2,J. Pruitt,Stale cost - not repriced,14094.12,Resolved,2026-09-26
+ESC-0088,2026-09-26,261026,4,A. Delgado,Markup below approved,874.6,Resolved,2026-10-01
+ESC-0089,2026-09-27,261047,1,K. Moss,Markup below approved,16533.0,Resolved,2026-10-02
+ESC-0090,2026-09-27,260648,1,A. Delgado,Expired quote at order entry,19880.28,Resolved,2026-09-30
+ESC-0091,2026-09-27,260218,1,J. Pruitt,Expired quote at order entry,2155.14,Resolved,2026-09-29
+ESC-0092,2026-09-27,260456,1,A. Delgado,Expired quote at order entry,1752.51,Resolved,2026-10-01
+ESC-0093,2026-09-27,260585,1,J. Pruitt,Expired quote at order entry,4490.7,Resolved,2026-09-30
+ESC-0094,2026-09-27,260980,2,A. Delgado,No issue - pricing correct,0,Resolved,2026-09-27
+ESC-0095,2026-09-28,260607,3,A. Delgado,Stale cost - not repriced,36816.0,Resolved,2026-10-01
+ESC-0096,2026-09-28,260674,3,K. Moss,Stale cost - not repriced,21382.08,Resolved,2026-10-01
+ESC-0097,2026-09-28,260973,3,A. Delgado,No issue - pricing correct,0,Resolved,2026-09-28
+ESC-0098,2026-09-29,260584,2,A. Delgado,Data entry error,-25516.0,Resolved,2026-10-01
+ESC-0099,2026-09-29,260821,3,J. Pruitt,Wrong customer segment tier,18683.7,Resolved,2026-09-29
+ESC-0100,2026-09-29,260622,1,A. Delgado,Expired quote at order entry,3630.2,Resolved,2026-09-30
+ESC-0101,2026-09-29,260509,1,K. Moss,Expired quote at order entry,1197.52,Resolved,2026-10-02
+ESC-0102,2026-09-29,260987,2,A. Delgado,No issue - pricing correct,0,Resolved,2026-09-29
+ESC-0103,2026-09-29,261075,3,J. Pruitt,No issue - pricing correct,0,Resolved,2026-09-29
+ESC-0104,2026-09-30,260741,1,K. Moss,Markup below approved,2204.4,Resolved,2026-09-30
+ESC-0105,2026-09-30,261022,4,K. Moss,Markup below approved,846.9,Resolved,2026-10-06
+ESC-0106,2026-09-30,261026,1,A. Delgado,Stale cost - not repriced,3522.8,Resolved,2026-10-02
+ESC-0107,2026-10-01,260681,1,A. Delgado,Markup below approved,1184.28,Resolved,2026-10-07
+ESC-0108,2026-10-01,260790,4,K. Moss,Stale cost - not repriced,10185.44,Resolved,2026-10-05
+ESC-0109,2026-10-01,261027,3,K. Moss,Data entry error,-45758.4,Open,
+ESC-0110,2026-10-01,260111,1,A. Delgado,Expired quote at order entry,2068.7,Resolved,2026-10-04
+ESC-0111,2026-10-01,261113,3,A. Delgado,No issue - pricing correct,0,Resolved,2026-10-01
+ESC-0112,2026-10-02,260756,3,A. Delgado,Stale cost - not repriced,18778.5,Resolved,2026-10-04
+ESC-0113,2026-10-02,260974,1,J. Pruitt,Stale cost - not repriced,718.14,Resolved,2026-10-02
+ESC-0114,2026-10-02,260628,1,J. Pruitt,Expired quote at order entry,3624.72,Resolved,2026-10-06
+ESC-0115,2026-10-02,260953,3,A. Delgado,No issue - pricing correct,0,Resolved,2026-10-02
+ESC-0116,2026-10-02,260937,3,J. Pruitt,No issue - pricing correct,0,Resolved,2026-10-02
+ESC-0117,2026-10-03,260825,1,A. Delgado,Wrong customer segment tier,-118.9,Resolved,2026-10-06
+ESC-0118,2026-10-03,260964,1,J. Pruitt,Markup below approved,25408.5,Resolved,2026-10-09
+ESC-0119,2026-10-03,261056,2,A. Delgado,Wrong customer segment tier,-1355.9,Resolved,2026-10-08
+ESC-0120,2026-10-03,261060,5,K. Moss,Stale cost - not repriced,6448.02,Resolved,2026-10-08
+ESC-0121,2026-10-03,260694,1,J. Pruitt,Expired quote at order entry,12725.1,Resolved,2026-10-03
+ESC-0122,2026-10-03,260946,4,A. Delgado,No issue - pricing correct,0,Resolved,2026-10-03
+ESC-0123,2026-10-04,260907,2,A. Delgado,Markup below approved,5340.0,Open,
+ESC-0124,2026-10-04,261051,2,K. Moss,Stale cost - not repriced,9925.72,Resolved,2026-10-04
+ESC-0125,2026-10-04,261146,3,K. Moss,Data entry error,-16364.8,Resolved,2026-10-09
+ESC-0126,2026-10-05,260775,2,A. Delgado,Stale cost - not repriced,46021.5,Resolved,2026-10-06
+ESC-0127,2026-10-05,260979,1,A. Delgado,Stale cost - not repriced,3985.92,Resolved,2026-10-11
+ESC-0128,2026-10-05,260639,1,J. Pruitt,Expired quote at order entry,7249.44,Resolved,2026-10-08
+ESC-0129,2026-10-05,261182,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-10-05
+ESC-0130,2026-10-06,260694,1,J. Pruitt,Stale cost - not repriced,12725.1,Resolved,2026-10-06
+ESC-0131,2026-10-06,260763,1,J. Pruitt,Stale cost - not repriced,7627.4,Resolved,2026-10-10
+ESC-0132,2026-10-06,261073,3,A. Delgado,Stale cost - not repriced,2714.38,Open,
+ESC-0133,2026-10-06,261182,1,J. Pruitt,Data entry error,-4766.96,Resolved,2026-10-10
+ESC-0134,2026-10-06,260302,1,K. Moss,Expired quote at order entry,3019.82,Resolved,2026-10-06
+ESC-0135,2026-10-07,260881,3,J. Pruitt,Markup below approved,2358.5,Resolved,2026-10-12
+ESC-0136,2026-10-07,260954,1,A. Delgado,Wrong customer segment tier,15539.04,Resolved,2026-10-09
+ESC-0137,2026-10-07,261157,1,J. Pruitt,Wrong customer segment tier,831.84,Resolved,2026-10-11
+ESC-0138,2026-10-07,260409,1,K. Moss,Expired quote at order entry,2727.0,Resolved,2026-10-07
+ESC-0139,2026-10-07,261057,4,K. Moss,No issue - pricing correct,0,Resolved,2026-10-07
+ESC-0140,2026-10-07,261186,1,A. Delgado,No issue - pricing correct,0,Resolved,2026-10-07
+ESC-0141,2026-10-08,260793,1,A. Delgado,Stale cost - not repriced,37567.1,Resolved,2026-10-09
+ESC-0142,2026-10-08,261192,2,K. Moss,Stale cost - not repriced,8525.72,Resolved,2026-10-12
+ESC-0143,2026-10-08,260410,1,A. Delgado,Expired quote at order entry,3569.6,Resolved,2026-10-11
+ESC-0144,2026-10-08,260212,1,J. Pruitt,Expired quote at order entry,9091.68,Resolved,2026-10-10
+ESC-0145,2026-10-08,260210,1,K. Moss,Expired quote at order entry,5833.16,Resolved,2026-10-09
+ESC-0146,2026-10-08,260591,1,K. Moss,Expired quote at order entry,34044.08,Resolved,2026-10-10
+ESC-0147,2026-10-09,260229,1,K. Moss,Expired quote at order entry,3892.32,Resolved,2026-10-10
+ESC-0148,2026-10-09,260206,1,J. Pruitt,Expired quote at order entry,2899.61,Resolved,2026-10-13
+ESC-0149,2026-10-10,260720,1,K. Moss,Stale cost - not repriced,9883.68,Resolved,2026-10-10
+ESC-0150,2026-10-10,260791,3,K. Moss,Markup below approved,2248.16,Resolved,2026-10-10
+ESC-0151,2026-10-10,260874,1,K. Moss,Wrong customer segment tier,2624.44,Resolved,2026-10-14
+ESC-0152,2026-10-10,261050,2,K. Moss,Stale cost - not repriced,1342.56,Resolved,2026-10-13
+ESC-0153,2026-10-10,261124,2,K. Moss,Stale cost - not repriced,14078.4,Resolved,2026-10-10
+ESC-0154,2026-10-10,261182,6,A. Delgado,Stale cost - not repriced,22444.96,Resolved,2026-10-15
+ESC-0155,2026-10-10,261223,1,J. Pruitt,Wrong customer segment tier,3635.28,Resolved,2026-10-14
+ESC-0156,2026-10-10,260326,1,J. Pruitt,Expired quote at order entry,9147.0,Resolved,2026-10-10
+ESC-0157,2026-10-11,260893,4,A. Delgado,Stale cost - not repriced,1299.25,Resolved,2026-10-13
+ESC-0158,2026-10-11,261006,1,K. Moss,Stale cost - not repriced,4849.8,Resolved,2026-10-16
+ESC-0159,2026-10-11,260213,1,J. Pruitt,Expired quote at order entry,3019.82,Resolved,2026-10-12
+ESC-0160,2026-10-11,261186,2,K. Moss,No issue - pricing correct,0,Resolved,2026-10-11
+ESC-0161,2026-10-12,261169,4,A. Delgado,Stale cost - not repriced,32806.5,Resolved,2026-10-17
+ESC-0162,2026-10-12,261284,1,A. Delgado,Markup below approved,1539.7,Resolved,2026-10-13
+ESC-0163,2026-10-12,260272,1,A. Delgado,Expired quote at order entry,6224.4,Resolved,2026-10-17
+ESC-0164,2026-10-13,260775,3,K. Moss,Stale cost - not repriced,3274.5,Resolved,2026-10-14
+ESC-0165,2026-10-13,260873,4,K. Moss,Stale cost - not repriced,2242.74,Resolved,2026-10-17
+ESC-0166,2026-10-13,261060,3,A. Delgado,Stale cost - not repriced,5451.6,Open,
+ESC-0167,2026-10-13,260316,1,A. Delgado,Expired quote at order entry,29641.0,Resolved,2026-10-16
+ESC-0168,2026-10-14,260934,1,J. Pruitt,Markup below approved,4158.74,Resolved,2026-10-19
+ESC-0169,2026-10-14,261015,1,K. Moss,Markup below approved,21411.66,Resolved,2026-10-17
+ESC-0170,2026-10-14,260886,1,K. Moss,Expired quote at order entry,406.2,Resolved,2026-10-17
+ESC-0171,2026-10-15,260967,1,K. Moss,Markup below approved,18950.92,Resolved,2026-10-20
+ESC-0172,2026-10-15,261074,2,A. Delgado,Markup below approved,8316.0,Resolved,2026-10-17
+ESC-0173,2026-10-15,261116,2,K. Moss,Stale cost - not repriced,8511.02,Resolved,2026-10-18
+ESC-0174,2026-10-15,260417,1,J. Pruitt,Expired quote at order entry,10908.0,Resolved,2026-10-17
+ESC-0175,2026-10-15,260895,1,K. Moss,Expired quote at order entry,2623.88,Resolved,2026-10-17
+ESC-0176,2026-10-15,261222,2,J. Pruitt,No issue - pricing correct,0,Resolved,2026-10-15
+ESC-0177,2026-10-15,261275,3,K. Moss,No issue - pricing correct,0,Resolved,2026-10-15
+ESC-0178,2026-10-16,260931,1,K. Moss,Markup below approved,667.7,Open,
+ESC-0179,2026-10-16,260944,1,A. Delgado,Wrong customer segment tier,11763.75,Resolved,2026-10-16
+ESC-0180,2026-10-16,261014,2,K. Moss,Markup below approved,8968.9,Resolved,2026-10-16
+ESC-0181,2026-10-16,261109,2,K. Moss,Markup below approved,7951.2,Resolved,2026-10-18
+ESC-0182,2026-10-16,261184,4,K. Moss,Markup below approved,10233.72,Resolved,2026-10-16
+ESC-0183,2026-10-16,260423,1,J. Pruitt,Expired quote at order entry,23427.7,Resolved,2026-10-19
+ESC-0184,2026-10-16,260790,1,K. Moss,Expired quote at order entry,1676.12,Resolved,2026-10-17
+ESC-0185,2026-10-17,260980,1,K. Moss,Stale cost - not repriced,4406.16,Resolved,2026-10-22
+ESC-0186,2026-10-17,260998,2,A. Delgado,Stale cost - not repriced,450.0,Resolved,2026-10-22
+ESC-0187,2026-10-17,261017,1,K. Moss,Markup below approved,5777.4,Resolved,2026-10-20
+ESC-0188,2026-10-17,261019,3,K. Moss,Stale cost - not repriced,2919.67,Resolved,2026-10-22
+ESC-0189,2026-10-17,261103,1,A. Delgado,Markup below approved,8968.9,Resolved,2026-10-20
+ESC-0190,2026-10-17,260479,1,K. Moss,Expired quote at order entry,1800.0,Resolved,2026-10-19
+ESC-0191,2026-10-18,261227,1,A. Delgado,Markup below approved,1501.83,Resolved,2026-10-22
+ESC-0192,2026-10-18,260324,1,J. Pruitt,Expired quote at order entry,3103.25,Resolved,2026-10-20
+ESC-0193,2026-10-18,260481,1,A. Delgado,Expired quote at order entry,6576.0,Resolved,2026-10-19
+ESC-0194,2026-10-18,260797,1,A. Delgado,Expired quote at order entry,7309.58,Resolved,2026-10-22
+ESC-0195,2026-10-18,261231,3,K. Moss,No issue - pricing correct,0,Resolved,2026-10-18
+ESC-0196,2026-10-19,261156,5,J. Pruitt,Stale cost - not repriced,7923.0,Resolved,2026-10-21
+ESC-0197,2026-10-19,261179,5,A. Delgado,Stale cost - not repriced,12096.9,Resolved,2026-10-19
+ESC-0198,2026-10-19,261259,2,J. Pruitt,Stale cost - not repriced,2270.4,Resolved,2026-10-22
+ESC-0199,2026-10-19,261262,3,J. Pruitt,Markup below approved,5193.3,Resolved,2026-10-19
+ESC-0200,2026-10-19,261282,2,A. Delgado,Data entry error,-9590.52,Resolved,2026-10-24
+ESC-0201,2026-10-19,260955,1,J. Pruitt,Expired quote at order entry,4136.58,Resolved,2026-10-21
+ESC-0202,2026-10-19,260974,1,J. Pruitt,Expired quote at order entry,718.14,Resolved,2026-10-20
+ESC-0203,2026-10-19,261131,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-10-19
+ESC-0204,2026-10-20,261132,1,K. Moss,Stale cost - not repriced,2203.08,Resolved,2026-10-24
+ESC-0205,2026-10-20,261230,2,K. Moss,Stale cost - not repriced,1676.12,Resolved,2026-10-20
+ESC-0206,2026-10-20,261239,3,A. Delgado,Data entry error,-11695.62,Resolved,2026-10-26
+ESC-0207,2026-10-20,260496,1,A. Delgado,Expired quote at order entry,8233.5,Resolved,2026-10-20
+ESC-0208,2026-10-21,260885,3,K. Moss,Stale cost - not repriced,5467.75,Resolved,2026-10-21
+ESC-0209,2026-10-21,260995,1,A. Delgado,Stale cost - not repriced,4475.2,Resolved,2026-10-23
+ESC-0210,2026-10-21,261040,2,A. Delgado,Stale cost - not repriced,2778.4,Resolved,2026-10-26
+ESC-0211,2026-10-21,261084,1,A. Delgado,Markup below approved,2074.77,Resolved,2026-10-21
+ESC-0212,2026-10-21,261329,2,A. Delgado,Stale cost - not repriced,2521.36,Resolved,2026-10-21
+ESC-0213,2026-10-21,261355,2,J. Pruitt,Markup below approved,2145.12,Resolved,2026-10-23
+ESC-0214,2026-10-21,260505,1,K. Moss,Expired quote at order entry,3771.0,Resolved,2026-10-24
+ESC-0215,2026-10-21,261379,1,J. Pruitt,No issue - pricing correct,0,Resolved,2026-10-21
+ESC-0216,2026-10-22,260900,2,A. Delgado,Stale cost - not repriced,27740.19,Resolved,2026-10-25
+ESC-0217,2026-10-22,261028,3,K. Moss,Markup below approved,887.16,Resolved,2026-10-26
+ESC-0218,2026-10-22,261055,4,J. Pruitt,Stale cost - not repriced,7302.25,Resolved,2026-10-24
+ESC-0219,2026-10-22,261159,1,K. Moss,Stale cost - not repriced,6496.25,Resolved,2026-10-28
+ESC-0220,2026-10-22,261184,3,J. Pruitt,Markup below approved,2397.7,Resolved,2026-10-23
+ESC-0221,2026-10-22,261265,5,J. Pruitt,Markup below approved,21131.92,Resolved,2026-10-28
+ESC-0222,2026-10-22,261308,2,A. Delgado,Stale cost - not repriced,1051.76,Resolved,2026-10-27
+ESC-0223,2026-10-22,260543,1,A. Delgado,Expired quote at order entry,2086.8,Resolved,2026-10-27
+ESC-0224,2026-10-22,260495,1,K. Moss,Expired quote at order entry,1043.4,Resolved,2026-10-25
+ESC-0225,2026-10-23,261087,4,K. Moss,Stale cost - not repriced,2624.52,Resolved,2026-10-29
+ESC-0226,2026-10-24,260961,1,J. Pruitt,Stale cost - not repriced,5216.2,Open,
+ESC-0227,2026-10-24,260997,3,J. Pruitt,Stale cost - not repriced,17748.5,Resolved,2026-10-30
+ESC-0228,2026-10-24,261012,3,J. Pruitt,Stale cost - not repriced,4151.72,Resolved,2026-10-27
+ESC-0229,2026-10-24,261044,2,J. Pruitt,Stale cost - not repriced,1352.07,Resolved,2026-10-30
+ESC-0230,2026-10-24,261201,3,A. Delgado,Stale cost - not repriced,4674.8,Resolved,2026-10-27
+ESC-0231,2026-10-24,261378,3,K. Moss,Stale cost - not repriced,2623.88,Resolved,2026-10-28
+ESC-0232,2026-10-24,261396,4,J. Pruitt,Stale cost - not repriced,1378.86,Resolved,2026-10-26
+ESC-0233,2026-10-24,261409,2,J. Pruitt,Stale cost - not repriced,872.13,Resolved,2026-10-24
+ESC-0234,2026-10-24,260405,1,K. Moss,Expired quote at order entry,19750.5,Resolved,2026-10-24
+ESC-0235,2026-10-24,260617,1,J. Pruitt,Expired quote at order entry,1571.2,Resolved,2026-10-25
+ESC-0236,2026-10-24,260382,1,A. Delgado,Expired quote at order entry,1402.44,Resolved,2026-10-24
+ESC-0237,2026-10-24,260586,1,K. Moss,Expired quote at order entry,3282.08,Resolved,2026-10-24
+ESC-0238,2026-10-24,260596,1,J. Pruitt,Expired quote at order entry,13500.0,Resolved,2026-10-29
+ESC-0239,2026-10-24,260603,1,K. Moss,Expired quote at order entry,39121.5,Resolved,2026-10-29
+ESC-0240,2026-10-25,260977,1,A. Delgado,Markup below approved,10721.96,Resolved,2026-10-27
+ESC-0241,2026-10-25,261408,1,K. Moss,Stale cost - not repriced,3969.28,Open,
+ESC-0242,2026-10-25,261411,2,A. Delgado,Stale cost - not repriced,1378.86,Open,
+ESC-0243,2026-10-25,261262,2,K. Moss,No issue - pricing correct,0,Resolved,2026-10-25
+ESC-0244,2026-10-26,261212,5,K. Moss,Stale cost - not repriced,5185.2,Resolved,2026-10-29
+ESC-0245,2026-10-26,260530,1,K. Moss,Expired quote at order entry,1342.56,Resolved,2026-10-26
+ESC-0246,2026-10-26,261222,1,K. Moss,No issue - pricing correct,0,Resolved,2026-10-26
+ESC-0247,2026-10-27,261035,4,A. Delgado,Stale cost - not repriced,2919.67,Open,
+ESC-0248,2026-10-27,261037,2,A. Delgado,Markup below approved,4630.56,Resolved,2026-10-27
+ESC-0249,2026-10-27,261436,1,K. Moss,Stale cost - not repriced,1968.11,Resolved,2026-10-29
+ESC-0250,2026-10-27,261439,5,K. Moss,Markup below approved,1096.08,Resolved,2026-10-28
+ESC-0251,2026-10-27,261314,3,J. Pruitt,No issue - pricing correct,0,Resolved,2026-10-27
+ESC-0252,2026-10-28,260684,1,A. Delgado,Expired quote at order entry,2727.0,Open,
+ESC-0253,2026-10-28,261033,1,K. Moss,Expired quote at order entry,1378.86,Open,
+ESC-0254,2026-10-28,260539,1,J. Pruitt,Expired quote at order entry,1571.2,Open,
+ESC-0255,2026-10-29,261003,2,K. Moss,Stale cost - not repriced,950.76,Resolved,2026-10-29
+ESC-0256,2026-10-29,261337,3,J. Pruitt,Wrong customer segment tier,2132.02,Open,
+ESC-0257,2026-10-29,261410,4,A. Delgado,Wrong customer segment tier,-22956.0,Resolved,2026-10-29
+ESC-0258,2026-10-29,260663,1,K. Moss,Expired quote at order entry,4066.5,Open,
+ESC-0259,2026-10-30,261457,3,A. Delgado,Data entry error,-15984.2,Open,
+ESC-0260,2026-10-30,261473,3,J. Pruitt,Stale cost - not repriced,7601.96,Open,
+ESC-0261,2026-10-30,260982,1,J. Pruitt,Expired quote at order entry,9648.64,Open,
+ESC-0262,2026-10-30,261468,1,K. Moss,No issue - pricing correct,0,Resolved,2026-10-30
