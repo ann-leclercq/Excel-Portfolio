@@ -1,6 +1,6 @@
 # Hi, I'm Ann
 
-**Excel · VLOOKUP/XLOOKUP · UNIQUE · Pivot Tables · Slicers · Conditional Formatting · Dashboards**
+**Excel · VLOOKUP/XLOOKUP · UNIQUE · Pivot Tables · Slicers · Conditional Formatting · Dashboards · SQL · Tableau**
 
 **Accounts Payable · Accounts Receivable · Purchasing · Operations · Junior Data Analytics**
 
@@ -16,10 +16,11 @@ I’m currently finishing a **Data Analytics certificate** at **Waubonsee Commun
 
 | Project | The question | Skills |
 |---|---|---|
+| **[Pricing Escalations Review](quote-pricing-escalations/)**<br>Ridgeline Power Transformers (self-directed) | Inside Sales logged 262 pricing escalations in 11 weeks. What's causing them, and what do they cost? *(Stale costs: **1 in 3 escalations, $751K**.)* | SQL (SQLite), SUMIF/COUNTIF, pivot tables, slicers, executive findings page |
+| **[AR Aging & Collections Analysis](ar-aging-collections/)**<br>Fox River Supply Co. (self-directed) | At month-end, how much of $490K in open AR is past due, who should get the first collection calls, and which invoices can't be collected until billing fixes them? *(Two customers hold **88% of the 61+ day dollars**.)* | Pivot tables, slicers, SQL (SQLite), Tableau Public |
 | **[Past-Due Order Analysis](manufacturer-one-past-due/)**<br>Manufacturer One · aerospace components | Leadership said "make more work orders" to clear **$10M+ in past-due orders**. How much of that could Planning actually move? *(About 15%. The rest belonged to Operations.)* | XLOOKUP, SUMIFS, conditional formatting, aging buckets, dashboard with tie-out checks |
 | **[Sales Order / PO Audit](manufacturer-two-so-po-audit/)**<br>Manufacturer Two · caps and closures | Out of 65–85 sales orders a day, how many were entered correctly, and what went wrong with the rest? *(It caught a **57,000-unit order that should have been 5,700**.)* | COUNTA(UNIQUE), data validation dropdowns, pivot tables, color-coded pie chart |
 | **[Sample Tracker Dashboard](manufacturer-two-sample-tracker/)**<br>Manufacturer Two · caps and closures | How many samples are we sending, who are the heaviest requesters, and are we paying for shipments that actually went out? | Excel tables, pivot tables with date grouping, slicers, line chart |
-
 
 ## About the data
 
