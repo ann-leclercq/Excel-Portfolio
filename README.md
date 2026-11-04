@@ -21,6 +21,7 @@ I’m currently finishing a **Data Analytics certificate** at **Waubonsee Commun
 | **[Past-Due Order Analysis](manufacturer-one-past-due/)**<br>Manufacturer One · aerospace components | Leadership said "make more work orders" to clear **$10M+ in past-due orders**. How much of that could Planning actually move? *(About 15%. The rest belonged to Operations.)* | XLOOKUP, SUMIFS, conditional formatting, aging buckets, dashboard with tie-out checks |
 | **[Sales Order / PO Audit](manufacturer-two-so-po-audit/)**<br>Manufacturer Two · caps and closures | Out of 65–85 sales orders a day, how many were entered correctly, and what went wrong with the rest? *(It caught a **57,000-unit order that should have been 5,700**.)* | COUNTA(UNIQUE), data validation dropdowns, pivot tables, color-coded pie chart |
 | **[Sample Tracker Dashboard](manufacturer-two-sample-tracker/)**<br>Manufacturer Two · caps and closures | How many samples are we sending, who are the heaviest requesters, and are we paying for shipments that actually went out? | Excel tables, pivot tables with date grouping, slicers, line chart |
+| **[Book Stock Review](book-stock-review/)**<br>Lakeshore Press · book publishing (synthetic) | Where is the inventory money sitting? *($262K in overstock, and cookbooks tie up **$26,736 per overstocked title**, 3× any other imprint.)* | SQL joins, pivot tables, slicers, stoplight conditional formatting |
 
 ## About the data
 
