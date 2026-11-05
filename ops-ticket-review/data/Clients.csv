@@ -1,0 +1,11 @@
+Client_ID,Client_Name,Industry,Service_Tier,Monthly_Fee
+C01,Cedar Ridge Dental,Healthcare,Gold,4200
+C02,Fox Valley Title Co.,Financial,Gold,5100
+C03,Riverwalk Family Law,Legal,Silver,2600
+C04,Prairie Oak Realty,Real Estate,Bronze,1200
+C05,Naper Ridge Pediatrics,Healthcare,Gold,4800
+C06,Lakeview Logistics,Transportation,Silver,3300
+C07,Bluebird Bakery Supply,Wholesale,Bronze,1100
+C08,Kendall County CPA Group,Financial,Silver,2900
+C09,Harbor Point Insurance,Insurance,Silver,3100
+C10,Old Mill Veterinary,Healthcare,Bronze,1400

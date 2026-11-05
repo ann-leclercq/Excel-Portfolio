@@ -1,0 +1,330 @@
+Ticket_ID,Client_ID,Date_Opened,Date_Closed,Status,Priority,Category,Technician,Days_Open,SLA_Target_Days,Past_SLA,Delay_Reason,Tech_Hours
+TKT-4001,C10,2026-08-03,2026-08-13,Closed,P4 - Low,Password / Access,Elena Ruiz,10,10,No,No delay,0.5
+TKT-4002,C03,2026-08-03,2026-08-03,Closed,P3 - Medium,Network,Jasmine Ford,0,5,No,No delay,2.0
+TKT-4003,C01,2026-08-03,2026-08-06,Closed,P4 - Low,Printer,Elena Ruiz,3,10,No,No delay,1.25
+TKT-4004,C04,2026-08-03,2026-08-08,Closed,P3 - Medium,Software,Marcus Bell,5,5,No,No delay,1.75
+TKT-4005,C03,2026-08-04,2026-08-11,Closed,P4 - Low,Password / Access,Jasmine Ford,7,10,No,No delay,0.25
+TKT-4006,C08,2026-08-04,2026-08-07,Closed,P3 - Medium,Email,Jasmine Ford,3,5,No,No delay,1.25
+TKT-4007,C02,2026-08-04,2026-08-05,Closed,P1 - Critical,Email,Marcus Bell,1,1,No,No delay,1.0
+TKT-4008,C02,2026-08-04,2026-08-29,Closed,P4 - Low,Hardware,Jasmine Ford,25,10,Yes,Technician workload,3.5
+TKT-4009,C03,2026-08-05,2026-08-06,Closed,P3 - Medium,Software,Marcus Bell,1,5,No,No delay,0.5
+TKT-4010,C08,2026-08-05,2026-08-06,Closed,P1 - Critical,Network,Priya Natarajan,1,1,No,No delay,3.25
+TKT-4011,C08,2026-08-05,2026-08-19,Closed,P3 - Medium,Hardware,Marcus Bell,14,5,Yes,Waiting on vendor,4.0
+TKT-4012,C02,2026-08-06,2026-08-08,Closed,P2 - High,Security,Jasmine Ford,2,2,No,No delay,2.5
+TKT-4013,C02,2026-08-06,2026-08-09,Closed,P3 - Medium,Network,Marcus Bell,3,5,No,No delay,1.0
+TKT-4014,C06,2026-08-06,2026-08-07,Closed,P3 - Medium,Password / Access,Elena Ruiz,1,5,No,No delay,0.25
+TKT-4015,C10,2026-08-06,2026-08-07,Closed,P2 - High,Network,Elena Ruiz,1,2,No,No delay,1.5
+TKT-4016,C06,2026-08-07,2026-08-12,Closed,P3 - Medium,Password / Access,Priya Natarajan,5,5,No,No delay,0.25
+TKT-4017,C05,2026-08-07,2026-08-12,Closed,P3 - Medium,Password / Access,Dave Kowalski,5,5,No,No delay,0.5
+TKT-4018,C09,2026-08-07,2026-08-10,Closed,P3 - Medium,Password / Access,Priya Natarajan,3,5,No,No delay,0.5
+TKT-4019,C03,2026-08-07,2026-08-16,Closed,P4 - Low,Software,Marcus Bell,9,10,No,No delay,0.5
+TKT-4020,C06,2026-08-07,2026-08-08,Closed,P4 - Low,Password / Access,Jasmine Ford,1,10,No,No delay,0.5
+TKT-4021,C01,2026-08-07,2026-08-08,Closed,P1 - Critical,Security,Dave Kowalski,1,1,No,No delay,2.0
+TKT-4022,C06,2026-08-07,2026-08-10,Closed,P1 - Critical,Network,Tom Ahn,3,1,Yes,Waiting on vendor,3.0
+TKT-4023,C05,2026-08-08,2026-08-09,Closed,P2 - High,Printer,Dave Kowalski,1,2,No,No delay,1.25
+TKT-4024,C07,2026-08-10,2026-08-15,Closed,P2 - High,Network,Dave Kowalski,5,2,Yes,Waiting on vendor,3.5
+TKT-4025,C05,2026-08-10,2026-08-19,Closed,P3 - Medium,Network,Tom Ahn,9,5,Yes,Escalated to Tier 2,5.75
+TKT-4026,C03,2026-08-10,2026-08-12,Closed,P3 - Medium,Network,Elena Ruiz,2,5,No,No delay,3.25
+TKT-4027,C06,2026-08-10,2026-08-11,Closed,P3 - Medium,Password / Access,Marcus Bell,1,5,No,No delay,0.5
+TKT-4028,C01,2026-08-10,2026-08-14,Closed,P2 - High,Printer,Priya Natarajan,4,2,Yes,Waiting on client,2.5
+TKT-4029,C02,2026-08-11,2026-08-12,Closed,P3 - Medium,Email,Elena Ruiz,1,5,No,No delay,1.25
+TKT-4030,C10,2026-08-11,2026-08-13,Closed,P3 - Medium,Password / Access,Marcus Bell,2,5,No,No delay,0.5
+TKT-4031,C05,2026-08-11,2026-08-17,Closed,P2 - High,Network,Priya Natarajan,6,2,Yes,Technician workload,3.75
+TKT-4032,C02,2026-08-12,2026-08-18,Closed,P2 - High,Hardware,Elena Ruiz,6,2,Yes,Waiting on vendor,3.5
+TKT-4033,C02,2026-08-12,2026-08-15,Closed,P3 - Medium,Network,Marcus Bell,3,5,No,No delay,2.25
+TKT-4034,C03,2026-08-12,2026-08-16,Closed,P4 - Low,Password / Access,Jasmine Ford,4,10,No,No delay,0.25
+TKT-4035,C05,2026-08-12,2026-08-20,Closed,P3 - Medium,Network,Dave Kowalski,8,5,Yes,Technician workload,4.5
+TKT-4036,C02,2026-08-13,2026-08-15,Closed,P1 - Critical,Hardware,Tom Ahn,2,1,Yes,Waiting on vendor,3.75
+TKT-4037,C01,2026-08-13,2026-08-16,Closed,P4 - Low,Password / Access,Elena Ruiz,3,10,No,No delay,0.25
+TKT-4038,C09,2026-08-13,2026-08-15,Closed,P3 - Medium,Software,Dave Kowalski,2,5,No,No delay,2.5
+TKT-4039,C01,2026-08-13,2026-08-21,Closed,P3 - Medium,Hardware,Tom Ahn,8,5,Yes,Parts on order,3.5
+TKT-4040,C05,2026-08-13,2026-08-14,Closed,P3 - Medium,Software,Marcus Bell,1,5,No,No delay,1.75
+TKT-4041,C06,2026-08-13,2026-08-15,Closed,P2 - High,Software,Dave Kowalski,2,2,No,No delay,1.5
+TKT-4042,C05,2026-08-13,2026-08-13,Closed,P1 - Critical,Network,Priya Natarajan,0,1,No,No delay,3.5
+TKT-4043,C02,2026-08-13,2026-08-14,Closed,P3 - Medium,Password / Access,Dave Kowalski,1,5,No,No delay,0.25
+TKT-4044,C07,2026-08-14,2026-08-14,Closed,P3 - Medium,Password / Access,Elena Ruiz,0,5,No,No delay,0.25
+TKT-4045,C01,2026-08-14,2026-08-18,Closed,P2 - High,Security,Tom Ahn,4,2,Yes,Waiting on client,3.5
+TKT-4046,C06,2026-08-14,2026-08-14,Closed,P3 - Medium,Password / Access,Jasmine Ford,0,5,No,No delay,0.5
+TKT-4047,C08,2026-08-17,2026-08-18,Closed,P4 - Low,Password / Access,Priya Natarajan,1,10,No,No delay,0.5
+TKT-4048,C03,2026-08-17,2026-08-19,Closed,P1 - Critical,Security,Dave Kowalski,2,1,Yes,Escalated to Tier 2,4.75
+TKT-4049,C05,2026-08-17,2026-08-24,Closed,P4 - Low,Password / Access,Dave Kowalski,7,10,No,No delay,0.5
+TKT-4050,C09,2026-08-17,2026-08-18,Closed,P4 - Low,Password / Access,Priya Natarajan,1,10,No,No delay,0.5
+TKT-4051,C06,2026-08-17,2026-08-26,Closed,P4 - Low,Network,Dave Kowalski,9,10,No,No delay,1.5
+TKT-4052,C06,2026-08-17,2026-08-19,Closed,P3 - Medium,Software,Elena Ruiz,2,5,No,No delay,1.0
+TKT-4053,C03,2026-08-17,2026-08-18,Closed,P2 - High,Software,Priya Natarajan,1,2,No,No delay,1.75
+TKT-4054,C02,2026-08-18,2026-08-18,Closed,P2 - High,Password / Access,Marcus Bell,0,2,No,No delay,0.5
+TKT-4055,C05,2026-08-18,2026-08-23,Closed,P3 - Medium,Email,Dave Kowalski,5,5,No,No delay,1.0
+TKT-4056,C07,2026-08-18,2026-08-18,Closed,P3 - Medium,Software,Priya Natarajan,0,5,No,No delay,2.5
+TKT-4057,C05,2026-08-18,2026-08-20,Closed,P2 - High,Software,Marcus Bell,2,2,No,No delay,0.75
+TKT-4058,C02,2026-08-18,2026-08-18,Closed,P1 - Critical,Security,Elena Ruiz,0,1,No,No delay,4.0
+TKT-4059,C07,2026-08-19,2026-08-20,Closed,P2 - High,Password / Access,Tom Ahn,1,2,No,No delay,0.5
+TKT-4060,C06,2026-08-20,2026-08-27,Closed,P4 - Low,Hardware,Marcus Bell,7,10,No,No delay,2.0
+TKT-4061,C02,2026-08-20,2026-08-23,Closed,P3 - Medium,Hardware,Elena Ruiz,3,5,No,No delay,3.0
+TKT-4062,C05,2026-08-20,2026-08-27,Closed,P4 - Low,Password / Access,Dave Kowalski,7,10,No,No delay,0.5
+TKT-4063,C06,2026-08-20,2026-08-23,Closed,P4 - Low,Software,Priya Natarajan,3,10,No,No delay,0.5
+TKT-4064,C01,2026-08-20,2026-08-29,Closed,P4 - Low,Password / Access,Priya Natarajan,9,10,No,No delay,0.25
+TKT-4065,C09,2026-08-21,2026-08-22,Closed,P3 - Medium,Password / Access,Priya Natarajan,1,5,No,No delay,0.5
+TKT-4066,C05,2026-08-21,2026-08-21,Closed,P4 - Low,Network,Priya Natarajan,0,10,No,No delay,3.5
+TKT-4067,C02,2026-08-21,2026-08-25,Closed,P3 - Medium,Software,Jasmine Ford,4,5,No,No delay,0.5
+TKT-4068,C01,2026-08-22,2026-08-25,Closed,P3 - Medium,Password / Access,Jasmine Ford,3,5,No,No delay,0.25
+TKT-4069,C09,2026-08-24,2026-08-26,Closed,P2 - High,Email,Tom Ahn,2,2,No,No delay,1.25
+TKT-4070,C01,2026-08-24,2026-08-25,Closed,P3 - Medium,Email,Elena Ruiz,1,5,No,No delay,1.25
+TKT-4071,C03,2026-08-24,2026-08-28,Closed,P3 - Medium,Password / Access,Dave Kowalski,4,5,No,No delay,0.5
+TKT-4072,C05,2026-08-24,2026-08-27,Closed,P3 - Medium,Email,Tom Ahn,3,5,No,No delay,1.0
+TKT-4073,C05,2026-08-24,2026-08-29,Closed,P3 - Medium,Password / Access,Marcus Bell,5,5,No,No delay,0.25
+TKT-4074,C06,2026-08-25,2026-08-27,Closed,P3 - Medium,Password / Access,Priya Natarajan,2,5,No,No delay,0.5
+TKT-4075,C03,2026-08-25,2026-08-27,Closed,P3 - Medium,Software,Tom Ahn,2,5,No,No delay,1.75
+TKT-4076,C02,2026-08-25,2026-08-25,Closed,P2 - High,Printer,Marcus Bell,0,2,No,No delay,1.0
+TKT-4077,C01,2026-08-25,2026-08-29,Closed,P3 - Medium,Password / Access,Marcus Bell,4,5,No,No delay,0.25
+TKT-4078,C01,2026-08-26,2026-08-31,Closed,P3 - Medium,Network,Jasmine Ford,5,5,No,No delay,2.25
+TKT-4079,C09,2026-08-26,2026-08-30,Closed,P3 - Medium,Password / Access,Tom Ahn,4,5,No,No delay,0.5
+TKT-4080,C07,2026-08-26,2026-08-30,Closed,P3 - Medium,Password / Access,Jasmine Ford,4,5,No,No delay,0.5
+TKT-4081,C04,2026-08-26,2026-08-26,Closed,P2 - High,Printer,Dave Kowalski,0,2,No,No delay,0.5
+TKT-4082,C08,2026-08-27,2026-08-27,Closed,P3 - Medium,Password / Access,Dave Kowalski,0,5,No,No delay,0.5
+TKT-4083,C05,2026-08-27,2026-09-02,Closed,P2 - High,Network,Tom Ahn,6,2,Yes,Waiting on vendor,4.5
+TKT-4084,C06,2026-08-28,2026-09-03,Closed,P2 - High,Software,Dave Kowalski,6,2,Yes,Waiting on client,2.75
+TKT-4085,C02,2026-08-28,2026-08-29,Closed,P3 - Medium,Password / Access,Elena Ruiz,1,5,No,No delay,0.5
+TKT-4086,C05,2026-08-28,2026-08-29,Closed,P3 - Medium,Email,Marcus Bell,1,5,No,No delay,1.25
+TKT-4087,C09,2026-08-31,2026-08-31,Closed,P2 - High,Network,Tom Ahn,0,2,No,No delay,4.0
+TKT-4088,C07,2026-08-31,2026-08-31,Closed,P1 - Critical,Network,Priya Natarajan,0,1,No,No delay,2.0
+TKT-4089,C03,2026-09-01,2026-09-02,Closed,P3 - Medium,Password / Access,Elena Ruiz,1,5,No,No delay,0.5
+TKT-4090,C02,2026-09-01,2026-10-01,Closed,P4 - Low,Hardware,Dave Kowalski,30,10,Yes,Parts on order,3.75
+TKT-4091,C03,2026-09-01,2026-09-05,Closed,P3 - Medium,Network,Marcus Bell,4,5,No,No delay,3.75
+TKT-4092,C02,2026-09-01,2026-09-11,Closed,P4 - Low,Password / Access,Dave Kowalski,10,10,No,No delay,0.25
+TKT-4093,C02,2026-09-02,2026-09-06,Closed,P3 - Medium,Software,Priya Natarajan,4,5,No,No delay,1.0
+TKT-4094,C01,2026-09-02,2026-09-04,Closed,P2 - High,Software,Dave Kowalski,2,2,No,No delay,0.75
+TKT-4095,C05,2026-09-02,2026-09-23,Closed,P4 - Low,Network,Jasmine Ford,21,10,Yes,Waiting on vendor,4.0
+TKT-4096,C06,2026-09-03,2026-09-05,Closed,P2 - High,Hardware,Elena Ruiz,2,2,No,No delay,1.5
+TKT-4097,C06,2026-09-03,2026-09-11,Closed,P4 - Low,Software,Jasmine Ford,8,10,No,No delay,1.25
+TKT-4098,C02,2026-09-03,2026-09-04,Closed,P2 - High,Network,Tom Ahn,1,2,No,No delay,2.75
+TKT-4099,C05,2026-09-04,2026-09-29,Closed,P4 - Low,Network,Marcus Bell,25,10,Yes,Waiting on vendor,2.25
+TKT-4100,C01,2026-09-04,2026-09-04,Closed,P2 - High,Security,Priya Natarajan,0,2,No,No delay,2.5
+TKT-4101,C03,2026-09-04,2026-09-07,Closed,P2 - High,Security,Tom Ahn,3,2,Yes,Escalated to Tier 2,5.0
+TKT-4102,C08,2026-09-05,2026-09-06,Closed,P3 - Medium,Software,Marcus Bell,1,5,No,No delay,2.5
+TKT-4103,C06,2026-09-07,2026-09-08,Closed,P3 - Medium,Password / Access,Dave Kowalski,1,5,No,No delay,0.25
+TKT-4104,C04,2026-09-07,2026-09-09,Closed,P2 - High,Network,Jasmine Ford,2,2,No,No delay,2.0
+TKT-4105,C05,2026-09-07,2026-09-18,Closed,P3 - Medium,Hardware,Dave Kowalski,11,5,Yes,Waiting on vendor,2.5
+TKT-4106,C07,2026-09-07,2026-09-10,Closed,P3 - Medium,Email,Dave Kowalski,3,5,No,No delay,1.25
+TKT-4107,C09,2026-09-07,2026-09-07,Closed,P1 - Critical,Printer,Jasmine Ford,0,1,No,No delay,0.5
+TKT-4108,C01,2026-09-07,2026-09-11,Closed,P3 - Medium,Password / Access,Marcus Bell,4,5,No,No delay,0.5
+TKT-4109,C06,2026-09-07,2026-09-09,Closed,P2 - High,Password / Access,Priya Natarajan,2,2,No,No delay,0.5
+TKT-4110,C09,2026-09-07,2026-09-13,Closed,P2 - High,Network,Elena Ruiz,6,2,Yes,Waiting on vendor,3.5
+TKT-4111,C02,2026-09-08,2026-09-10,Closed,P3 - Medium,Email,Dave Kowalski,2,5,No,No delay,0.75
+TKT-4112,C01,2026-09-08,2026-09-22,Closed,P4 - Low,Hardware,Elena Ruiz,14,10,Yes,Waiting on vendor,2.5
+TKT-4113,C05,2026-09-09,2026-09-11,Closed,P2 - High,Email,Tom Ahn,2,2,No,No delay,0.5
+TKT-4114,C04,2026-09-09,2026-09-10,Closed,P3 - Medium,Software,Jasmine Ford,1,5,No,No delay,2.5
+TKT-4115,C05,2026-09-09,2026-09-14,Closed,P2 - High,Password / Access,Tom Ahn,5,2,Yes,Technician workload,2.0
+TKT-4116,C08,2026-09-09,2026-09-10,Closed,P3 - Medium,Email,Dave Kowalski,1,5,No,No delay,1.25
+TKT-4117,C01,2026-09-09,2026-09-14,Closed,P3 - Medium,Password / Access,Dave Kowalski,5,5,No,No delay,0.25
+TKT-4118,C08,2026-09-09,2026-09-19,Closed,P4 - Low,Software,Priya Natarajan,10,10,No,No delay,0.5
+TKT-4119,C02,2026-09-09,2026-09-19,Closed,P4 - Low,Password / Access,Priya Natarajan,10,10,No,No delay,0.25
+TKT-4120,C10,2026-09-09,2026-09-10,Closed,P3 - Medium,Network,Tom Ahn,1,5,No,No delay,3.25
+TKT-4121,C04,2026-09-10,2026-09-12,Closed,P3 - Medium,Password / Access,Marcus Bell,2,5,No,No delay,0.5
+TKT-4122,C01,2026-09-10,2026-09-10,Closed,P1 - Critical,Software,Jasmine Ford,0,1,No,No delay,0.75
+TKT-4123,C01,2026-09-10,2026-09-12,Closed,P2 - High,Password / Access,Jasmine Ford,2,2,No,No delay,0.25
+TKT-4124,C09,2026-09-10,2026-09-10,Closed,P2 - High,Network,Marcus Bell,0,2,No,No delay,1.0
+TKT-4125,C05,2026-09-10,2026-09-14,Closed,P3 - Medium,Email,Marcus Bell,4,5,No,No delay,1.5
+TKT-4126,C06,2026-09-10,2026-09-13,Closed,P2 - High,Hardware,Tom Ahn,3,2,Yes,Parts on order,2.5
+TKT-4127,C03,2026-09-10,2026-09-13,Closed,P3 - Medium,Password / Access,Priya Natarajan,3,5,No,No delay,0.5
+TKT-4128,C01,2026-09-10,2026-09-11,Closed,P4 - Low,Printer,Priya Natarajan,1,10,No,No delay,1.0
+TKT-4129,C03,2026-09-11,2026-09-11,Closed,P2 - High,Software,Dave Kowalski,0,2,No,No delay,2.0
+TKT-4130,C02,2026-09-11,2026-09-12,Closed,P3 - Medium,Password / Access,Tom Ahn,1,5,No,No delay,0.5
+TKT-4131,C09,2026-09-11,2026-09-14,Closed,P3 - Medium,Password / Access,Marcus Bell,3,5,No,No delay,0.5
+TKT-4132,C08,2026-09-13,2026-09-16,Closed,P4 - Low,Hardware,Dave Kowalski,3,10,No,No delay,1.75
+TKT-4133,C04,2026-09-14,2026-09-27,Closed,P3 - Medium,Network,Elena Ruiz,13,5,Yes,Technician workload,4.0
+TKT-4134,C01,2026-09-14,2026-09-15,Closed,P3 - Medium,Password / Access,Elena Ruiz,1,5,No,No delay,0.25
+TKT-4135,C03,2026-09-14,2026-09-14,Closed,P1 - Critical,Email,Elena Ruiz,0,1,No,No delay,1.25
+TKT-4136,C02,2026-09-15,2026-09-18,Closed,P3 - Medium,Printer,Tom Ahn,3,5,No,No delay,0.75
+TKT-4137,C02,2026-09-15,2026-09-19,Closed,P2 - High,Email,Priya Natarajan,4,2,Yes,Technician workload,2.25
+TKT-4138,C08,2026-09-15,2026-09-15,Closed,P2 - High,Network,Dave Kowalski,0,2,No,No delay,2.75
+TKT-4139,C02,2026-09-16,2026-09-22,Closed,P4 - Low,Password / Access,Priya Natarajan,6,10,No,No delay,0.5
+TKT-4140,C08,2026-09-16,2026-09-17,Closed,P1 - Critical,Network,Tom Ahn,1,1,No,No delay,2.5
+TKT-4141,C08,2026-09-16,2026-09-24,Closed,P4 - Low,Password / Access,Dave Kowalski,8,10,No,No delay,0.25
+TKT-4142,C08,2026-09-16,2026-09-21,Closed,P3 - Medium,Password / Access,Elena Ruiz,5,5,No,No delay,0.25
+TKT-4143,C06,2026-09-16,2026-09-18,Closed,P2 - High,Network,Tom Ahn,2,2,No,No delay,2.75
+TKT-4144,C07,2026-09-17,2026-09-22,Closed,P4 - Low,Printer,Jasmine Ford,5,10,No,No delay,1.25
+TKT-4145,C06,2026-09-17,2026-09-17,Closed,P2 - High,Security,Jasmine Ford,0,2,No,No delay,2.0
+TKT-4146,C09,2026-09-17,2026-09-20,Closed,P3 - Medium,Printer,Marcus Bell,3,5,No,No delay,0.75
+TKT-4147,C02,2026-09-18,2026-09-23,Closed,P3 - Medium,Password / Access,Priya Natarajan,5,5,No,No delay,0.25
+TKT-4148,C03,2026-09-18,2026-09-24,Closed,P4 - Low,Email,Jasmine Ford,6,10,No,No delay,1.25
+TKT-4149,C05,2026-09-18,2026-09-18,Closed,P1 - Critical,Network,Marcus Bell,0,1,No,No delay,2.5
+TKT-4150,C01,2026-09-18,2026-09-18,Closed,P3 - Medium,Email,Dave Kowalski,0,5,No,No delay,1.5
+TKT-4151,C05,2026-09-19,2026-09-25,Closed,P4 - Low,Password / Access,Tom Ahn,6,10,No,No delay,0.5
+TKT-4152,C09,2026-09-20,2026-10-01,Closed,P3 - Medium,Email,Marcus Bell,11,5,Yes,Technician workload,2.5
+TKT-4153,C04,2026-09-21,2026-09-22,Closed,P2 - High,Network,Tom Ahn,1,2,No,No delay,1.25
+TKT-4154,C03,2026-09-21,2026-09-24,Closed,P3 - Medium,Password / Access,Jasmine Ford,3,5,No,No delay,0.5
+TKT-4155,C07,2026-09-21,2026-09-24,Closed,P2 - High,Hardware,Elena Ruiz,3,2,Yes,Parts on order,2.75
+TKT-4156,C06,2026-09-21,2026-09-21,Closed,P2 - High,Hardware,Marcus Bell,0,2,No,No delay,2.75
+TKT-4157,C01,2026-09-21,2026-09-21,Closed,P2 - High,Password / Access,Tom Ahn,0,2,No,No delay,0.5
+TKT-4158,C05,2026-09-22,2026-09-23,Closed,P3 - Medium,Password / Access,Dave Kowalski,1,5,No,No delay,0.25
+TKT-4159,C05,2026-09-22,2026-10-02,Closed,P3 - Medium,Printer,Elena Ruiz,10,5,Yes,Waiting on client,2.75
+TKT-4160,C06,2026-09-22,2026-09-26,Closed,P3 - Medium,Hardware,Jasmine Ford,4,5,No,No delay,1.0
+TKT-4161,C05,2026-09-23,2026-10-06,Closed,P3 - Medium,Network,Priya Natarajan,13,5,Yes,Technician workload,2.75
+TKT-4162,C09,2026-09-23,2026-10-06,Closed,P3 - Medium,Hardware,Tom Ahn,13,5,Yes,Waiting on vendor,2.75
+TKT-4163,C02,2026-09-23,2026-09-23,Closed,P3 - Medium,Password / Access,Marcus Bell,0,5,No,No delay,0.5
+TKT-4164,C01,2026-09-23,2026-09-28,Closed,P2 - High,Hardware,Dave Kowalski,5,2,Yes,Waiting on vendor,2.75
+TKT-4165,C07,2026-09-23,2026-09-27,Closed,P3 - Medium,Software,Priya Natarajan,4,5,No,No delay,0.75
+TKT-4166,C09,2026-09-24,2026-09-25,Closed,P4 - Low,Password / Access,Tom Ahn,1,10,No,No delay,0.5
+TKT-4167,C02,2026-09-24,2026-09-26,Closed,P3 - Medium,Hardware,Elena Ruiz,2,5,No,No delay,1.25
+TKT-4168,C03,2026-09-24,2026-09-26,Closed,P3 - Medium,Printer,Dave Kowalski,2,5,No,No delay,1.25
+TKT-4169,C01,2026-09-25,2026-09-30,Closed,P3 - Medium,Printer,Marcus Bell,5,5,No,No delay,1.5
+TKT-4170,C01,2026-09-25,2026-09-25,Closed,P3 - Medium,Password / Access,Marcus Bell,0,5,No,No delay,0.5
+TKT-4171,C01,2026-09-25,2026-09-27,Closed,P3 - Medium,Printer,Marcus Bell,2,5,No,No delay,1.0
+TKT-4172,C02,2026-09-25,2026-09-30,Closed,P3 - Medium,Software,Elena Ruiz,5,5,No,No delay,1.0
+TKT-4173,C07,2026-09-25,2026-09-26,Closed,P2 - High,Hardware,Marcus Bell,1,2,No,No delay,2.75
+TKT-4174,C09,2026-09-25,2026-10-04,Closed,P4 - Low,Password / Access,Jasmine Ford,9,10,No,No delay,0.25
+TKT-4175,C01,2026-09-25,2026-09-27,Closed,P2 - High,Security,Marcus Bell,2,2,No,No delay,3.75
+TKT-4176,C07,2026-09-28,2026-10-01,Closed,P3 - Medium,Printer,Tom Ahn,3,5,No,No delay,0.75
+TKT-4177,C01,2026-09-28,2026-09-29,Closed,P3 - Medium,Password / Access,Tom Ahn,1,5,No,No delay,0.5
+TKT-4178,C09,2026-09-28,2026-09-28,Closed,P2 - High,Password / Access,Elena Ruiz,0,2,No,No delay,0.5
+TKT-4179,C04,2026-09-28,2026-09-28,Closed,P2 - High,Printer,Dave Kowalski,0,2,No,No delay,0.75
+TKT-4180,C05,2026-09-28,2026-10-08,Closed,P4 - Low,Email,Elena Ruiz,10,10,No,No delay,1.0
+TKT-4181,C03,2026-09-29,2026-10-03,Closed,P3 - Medium,Hardware,Priya Natarajan,4,5,No,No delay,2.0
+TKT-4182,C09,2026-09-29,2026-09-30,Closed,P3 - Medium,Network,Dave Kowalski,1,5,No,No delay,3.75
+TKT-4183,C03,2026-09-29,2026-09-29,Closed,P3 - Medium,Password / Access,Jasmine Ford,0,5,No,No delay,0.25
+TKT-4184,C05,2026-09-30,2026-10-05,Closed,P3 - Medium,Password / Access,Jasmine Ford,5,5,No,No delay,0.25
+TKT-4185,C06,2026-09-30,2026-10-02,Closed,P3 - Medium,Software,Priya Natarajan,2,5,No,No delay,2.0
+TKT-4186,C03,2026-09-30,2026-09-30,Closed,P2 - High,Email,Dave Kowalski,0,2,No,No delay,1.25
+TKT-4187,C02,2026-09-30,2026-10-04,Closed,P3 - Medium,Password / Access,Priya Natarajan,4,5,No,No delay,0.5
+TKT-4188,C01,2026-09-30,2026-10-03,Closed,P3 - Medium,Software,Priya Natarajan,3,5,No,No delay,2.25
+TKT-4189,C07,2026-09-30,2026-10-05,Closed,P2 - High,Email,Marcus Bell,5,2,Yes,Waiting on client,2.5
+TKT-4190,C07,2026-10-01,2026-10-02,Closed,P4 - Low,Software,Dave Kowalski,1,10,No,No delay,2.0
+TKT-4191,C06,2026-10-01,2026-10-03,Closed,P3 - Medium,Software,Priya Natarajan,2,5,No,No delay,1.5
+TKT-4192,C05,2026-10-01,2026-10-02,Closed,P2 - High,Software,Tom Ahn,1,2,No,No delay,0.75
+TKT-4193,C03,2026-10-01,2026-10-04,Closed,P3 - Medium,Password / Access,Tom Ahn,3,5,No,No delay,0.5
+TKT-4194,C04,2026-10-01,2026-10-04,Closed,P3 - Medium,Password / Access,Jasmine Ford,3,5,No,No delay,0.5
+TKT-4195,C09,2026-10-02,2026-10-09,Closed,P4 - Low,Software,Priya Natarajan,7,10,No,No delay,2.25
+TKT-4196,C01,2026-10-02,2026-10-03,Closed,P2 - High,Email,Priya Natarajan,1,2,No,No delay,0.75
+TKT-4197,C01,2026-10-03,2026-10-04,Closed,P3 - Medium,Password / Access,Jasmine Ford,1,5,No,No delay,0.25
+TKT-4198,C02,2026-10-05,2026-10-12,Closed,P3 - Medium,Hardware,Tom Ahn,7,5,Yes,Technician workload,4.0
+TKT-4199,C07,2026-10-05,2026-10-09,Closed,P4 - Low,Password / Access,Marcus Bell,4,10,No,No delay,0.5
+TKT-4200,C05,2026-10-05,2026-10-11,Closed,P2 - High,Network,Elena Ruiz,6,2,Yes,Escalated to Tier 2,4.5
+TKT-4201,C01,2026-10-05,2026-10-10,Closed,P2 - High,Network,Tom Ahn,5,2,Yes,Escalated to Tier 2,4.75
+TKT-4202,C09,2026-10-05,2026-10-05,Closed,P2 - High,Network,Dave Kowalski,0,2,No,No delay,2.5
+TKT-4203,C05,2026-10-05,2026-10-06,Closed,P2 - High,Security,Tom Ahn,1,2,No,No delay,1.0
+TKT-4204,C10,2026-10-05,2026-10-14,Closed,P3 - Medium,Hardware,Jasmine Ford,9,5,Yes,Parts on order,2.25
+TKT-4205,C03,2026-10-05,2026-10-05,Closed,P2 - High,Email,Dave Kowalski,0,2,No,No delay,0.75
+TKT-4206,C01,2026-10-05,2026-10-05,Closed,P1 - Critical,Network,Marcus Bell,0,1,No,No delay,2.0
+TKT-4207,C01,2026-10-06,2026-10-15,Closed,P4 - Low,Password / Access,Priya Natarajan,9,10,No,No delay,0.25
+TKT-4208,C01,2026-10-06,2026-10-06,Closed,P1 - Critical,Software,Tom Ahn,0,1,No,No delay,2.25
+TKT-4209,C01,2026-10-06,2026-10-10,Closed,P4 - Low,Printer,Marcus Bell,4,10,No,No delay,0.5
+TKT-4210,C04,2026-10-06,2026-10-06,Closed,P3 - Medium,Software,Jasmine Ford,0,5,No,No delay,0.75
+TKT-4211,C07,2026-10-06,2026-10-09,Closed,P3 - Medium,Software,Jasmine Ford,3,5,No,No delay,2.0
+TKT-4212,C06,2026-10-06,2026-10-06,Closed,P3 - Medium,Password / Access,Tom Ahn,0,5,No,No delay,0.25
+TKT-4213,C09,2026-10-06,2026-10-08,Closed,P3 - Medium,Network,Elena Ruiz,2,5,No,No delay,2.0
+TKT-4214,C05,2026-10-07,2026-10-08,Closed,P3 - Medium,Password / Access,Marcus Bell,1,5,No,No delay,0.25
+TKT-4215,C08,2026-10-07,2026-10-08,Closed,P3 - Medium,Software,Elena Ruiz,1,5,No,No delay,2.0
+TKT-4216,C09,2026-10-08,2026-10-08,Closed,P2 - High,Email,Marcus Bell,0,2,No,No delay,1.5
+TKT-4217,C01,2026-10-08,2026-10-10,Closed,P1 - Critical,Network,Elena Ruiz,2,1,Yes,Escalated to Tier 2,3.25
+TKT-4218,C01,2026-10-08,2026-10-08,Closed,P2 - High,Email,Marcus Bell,0,2,No,No delay,1.25
+TKT-4219,C01,2026-10-08,2026-10-09,Closed,P2 - High,Network,Jasmine Ford,1,2,No,No delay,4.0
+TKT-4220,C01,2026-10-08,2026-10-09,Closed,P1 - Critical,Network,Elena Ruiz,1,1,No,No delay,2.5
+TKT-4221,C09,2026-10-09,2026-10-09,Closed,P1 - Critical,Email,Dave Kowalski,0,1,No,No delay,1.0
+TKT-4222,C08,2026-10-09,2026-10-15,Closed,P2 - High,Hardware,Tom Ahn,6,2,Yes,Waiting on vendor,2.75
+TKT-4223,C05,2026-10-09,2026-10-09,Closed,P2 - High,Password / Access,Dave Kowalski,0,2,No,No delay,0.25
+TKT-4224,C10,2026-10-09,2026-10-13,Closed,P3 - Medium,Email,Jasmine Ford,4,5,No,No delay,1.25
+TKT-4225,C01,2026-10-09,2026-10-10,Closed,P1 - Critical,Network,Jasmine Ford,1,1,No,No delay,2.5
+TKT-4226,C02,2026-10-11,2026-10-20,Closed,P3 - Medium,Hardware,Jasmine Ford,9,5,Yes,Parts on order,3.75
+TKT-4227,C02,2026-10-12,2026-10-15,Closed,P3 - Medium,Network,Jasmine Ford,3,5,No,No delay,2.75
+TKT-4228,C03,2026-10-12,2026-10-12,Closed,P2 - High,Software,Elena Ruiz,0,2,No,No delay,1.5
+TKT-4229,C05,2026-10-12,2026-10-13,Closed,P2 - High,Software,Jasmine Ford,1,2,No,No delay,0.5
+TKT-4230,C09,2026-10-12,2026-10-15,Closed,P4 - Low,Software,Dave Kowalski,3,10,No,No delay,2.5
+TKT-4231,C03,2026-10-12,,Open,P4 - Low,Network,Tom Ahn,19,10,Yes,Escalated to Tier 2,4.5
+TKT-4232,C08,2026-10-12,2026-10-22,Closed,P3 - Medium,Email,Tom Ahn,10,5,Yes,Waiting on client,3.0
+TKT-4233,C05,2026-10-12,2026-10-13,Closed,P3 - Medium,Printer,Marcus Bell,1,5,No,No delay,1.0
+TKT-4234,C01,2026-10-12,2026-10-14,Closed,P1 - Critical,Network,Jasmine Ford,2,1,Yes,Waiting on vendor,4.5
+TKT-4235,C03,2026-10-13,2026-10-13,Closed,P1 - Critical,Network,Marcus Bell,0,1,No,No delay,3.75
+TKT-4236,C02,2026-10-13,2026-10-17,Closed,P3 - Medium,Password / Access,Jasmine Ford,4,5,No,No delay,0.25
+TKT-4237,C02,2026-10-13,2026-10-16,Closed,P3 - Medium,Password / Access,Marcus Bell,3,5,No,No delay,0.25
+TKT-4238,C02,2026-10-13,2026-10-18,Closed,P4 - Low,Hardware,Jasmine Ford,5,10,No,No delay,1.0
+TKT-4239,C03,2026-10-13,2026-10-21,Closed,P4 - Low,Password / Access,Jasmine Ford,8,10,No,No delay,0.25
+TKT-4240,C01,2026-10-13,2026-10-17,Closed,P2 - High,Network,Marcus Bell,4,2,Yes,Escalated to Tier 2,4.0
+TKT-4241,C06,2026-10-14,2026-10-22,Closed,P4 - Low,Printer,Priya Natarajan,8,10,No,No delay,1.0
+TKT-4242,C02,2026-10-14,2026-10-17,Closed,P3 - Medium,Password / Access,Marcus Bell,3,5,No,No delay,0.5
+TKT-4243,C08,2026-10-15,2026-10-15,Closed,P2 - High,Network,Tom Ahn,0,2,No,No delay,3.0
+TKT-4244,C04,2026-10-15,2026-10-16,Closed,P2 - High,Printer,Tom Ahn,1,2,No,No delay,1.5
+TKT-4245,C01,2026-10-15,2026-10-18,Closed,P2 - High,Network,Elena Ruiz,3,2,Yes,Waiting on vendor,2.75
+TKT-4246,C03,2026-10-15,2026-10-16,Closed,P3 - Medium,Email,Tom Ahn,1,5,No,No delay,1.25
+TKT-4247,C05,2026-10-15,2026-10-17,Closed,P4 - Low,Software,Priya Natarajan,2,10,No,No delay,1.25
+TKT-4248,C08,2026-10-15,2026-10-18,Closed,P3 - Medium,Password / Access,Marcus Bell,3,5,No,No delay,0.5
+TKT-4249,C01,2026-10-15,2026-10-17,Closed,P2 - High,Network,Jasmine Ford,2,2,No,No delay,2.5
+TKT-4250,C04,2026-10-15,2026-10-15,Closed,P4 - Low,Software,Elena Ruiz,0,10,No,No delay,2.25
+TKT-4251,C06,2026-10-16,2026-10-17,Closed,P2 - High,Network,Dave Kowalski,1,2,No,No delay,1.75
+TKT-4252,C02,2026-10-16,2026-10-21,Closed,P3 - Medium,Hardware,Priya Natarajan,5,5,No,No delay,2.25
+TKT-4253,C01,2026-10-16,2026-10-18,Closed,P1 - Critical,Network,Marcus Bell,2,1,Yes,Escalated to Tier 2,3.25
+TKT-4254,C01,2026-10-17,2026-10-23,Closed,P2 - High,Network,Tom Ahn,6,2,Yes,Waiting on vendor,4.5
+TKT-4255,C01,2026-10-18,2026-10-19,Closed,P2 - High,Security,Jasmine Ford,1,2,No,No delay,1.5
+TKT-4256,C03,2026-10-18,2026-10-20,Closed,P4 - Low,Hardware,Priya Natarajan,2,10,No,No delay,1.75
+TKT-4257,C09,2026-10-19,2026-10-22,Closed,P3 - Medium,Hardware,Jasmine Ford,3,5,No,No delay,1.75
+TKT-4258,C01,2026-10-19,2026-10-29,Closed,P3 - Medium,Hardware,Elena Ruiz,10,5,Yes,Parts on order,4.0
+TKT-4259,C05,2026-10-19,2026-10-24,Closed,P3 - Medium,Password / Access,Jasmine Ford,5,5,No,No delay,0.5
+TKT-4260,C08,2026-10-19,2026-10-28,Closed,P3 - Medium,Software,Marcus Bell,9,5,Yes,Technician workload,2.5
+TKT-4261,C06,2026-10-19,2026-10-23,Closed,P3 - Medium,Hardware,Priya Natarajan,4,5,No,No delay,2.5
+TKT-4262,C05,2026-10-19,2026-10-20,Closed,P2 - High,Security,Elena Ruiz,1,2,No,No delay,2.5
+TKT-4263,C08,2026-10-19,2026-10-20,Closed,P3 - Medium,Hardware,Tom Ahn,1,5,No,No delay,2.5
+TKT-4264,C09,2026-10-19,2026-10-19,Closed,P1 - Critical,Hardware,Marcus Bell,0,1,No,No delay,2.0
+TKT-4265,C10,2026-10-19,,Open,P4 - Low,Email,Dave Kowalski,12,10,Yes,Waiting on client,2.25
+TKT-4266,C10,2026-10-19,2026-10-20,Closed,P3 - Medium,Password / Access,Elena Ruiz,1,5,No,No delay,0.5
+TKT-4267,C05,2026-10-19,,Open,P3 - Medium,Password / Access,Elena Ruiz,12,5,Yes,Escalated to Tier 2,1.0
+TKT-4268,C09,2026-10-20,2026-10-24,Closed,P3 - Medium,Password / Access,Dave Kowalski,4,5,No,No delay,0.25
+TKT-4269,C10,2026-10-20,,Open,P4 - Low,Email,Priya Natarajan,11,10,Yes,Waiting on client,2.5
+TKT-4270,C04,2026-10-20,,Open,P2 - High,Email,Priya Natarajan,11,2,Yes,Waiting on client,2.5
+TKT-4271,C10,2026-10-21,2026-10-29,Closed,P4 - Low,Password / Access,Tom Ahn,8,10,No,No delay,0.25
+TKT-4272,C02,2026-10-21,,Open,P3 - Medium,Password / Access,Elena Ruiz,10,5,Yes,Waiting on client,2.25
+TKT-4273,C09,2026-10-21,,Open,P2 - High,Email,Tom Ahn,10,2,Yes,Waiting on client,1.75
+TKT-4274,C04,2026-10-21,2026-10-22,Closed,P2 - High,Software,Jasmine Ford,1,2,No,No delay,0.5
+TKT-4275,C06,2026-10-21,2026-10-22,Closed,P3 - Medium,Network,Priya Natarajan,1,5,No,No delay,2.75
+TKT-4276,C05,2026-10-21,,Open,P4 - Low,Hardware,Priya Natarajan,10,10,No,No delay,3.0
+TKT-4277,C01,2026-10-21,2026-10-21,Closed,P1 - Critical,Network,Priya Natarajan,0,1,No,No delay,3.25
+TKT-4278,C01,2026-10-22,2026-10-27,Closed,P3 - Medium,Software,Jasmine Ford,5,5,No,No delay,1.5
+TKT-4279,C02,2026-10-22,2026-10-23,Closed,P4 - Low,Email,Jasmine Ford,1,10,No,No delay,1.0
+TKT-4280,C09,2026-10-22,,Open,P2 - High,Printer,Tom Ahn,9,2,Yes,Waiting on client,1.5
+TKT-4281,C08,2026-10-22,,Open,P2 - High,Hardware,Jasmine Ford,9,2,Yes,Parts on order,2.5
+TKT-4282,C02,2026-10-22,2026-10-25,Closed,P4 - Low,Hardware,Tom Ahn,3,10,No,No delay,2.0
+TKT-4283,C01,2026-10-22,2026-10-23,Closed,P4 - Low,Email,Jasmine Ford,1,10,No,No delay,1.0
+TKT-4284,C01,2026-10-22,2026-10-30,Closed,P4 - Low,Printer,Marcus Bell,8,10,No,No delay,0.75
+TKT-4285,C06,2026-10-22,,Open,P3 - Medium,Hardware,Tom Ahn,9,5,Yes,Waiting on vendor,3.0
+TKT-4286,C08,2026-10-22,,Open,P3 - Medium,Hardware,Elena Ruiz,9,5,Yes,Technician workload,3.5
+TKT-4287,C03,2026-10-23,2026-10-30,Closed,P4 - Low,Password / Access,Jasmine Ford,7,10,No,No delay,0.25
+TKT-4288,C05,2026-10-23,2026-10-27,Closed,P3 - Medium,Network,Jasmine Ford,4,5,No,No delay,3.0
+TKT-4289,C10,2026-10-23,2026-10-25,Closed,P1 - Critical,Network,Priya Natarajan,2,1,Yes,Escalated to Tier 2,4.75
+TKT-4290,C05,2026-10-23,,Open,P3 - Medium,Password / Access,Marcus Bell,8,5,Yes,Waiting on client,1.0
+TKT-4291,C04,2026-10-23,,Open,P4 - Low,Password / Access,Marcus Bell,8,10,No,No delay,0.25
+TKT-4292,C01,2026-10-23,,Open,P4 - Low,Software,Dave Kowalski,8,10,No,No delay,1.0
+TKT-4293,C06,2026-10-23,2026-10-24,Closed,P2 - High,Email,Tom Ahn,1,2,No,No delay,1.0
+TKT-4294,C08,2026-10-23,,Open,P4 - Low,Password / Access,Jasmine Ford,8,10,No,No delay,0.25
+TKT-4295,C06,2026-10-23,2026-10-25,Closed,P2 - High,Security,Dave Kowalski,2,2,No,No delay,3.0
+TKT-4296,C01,2026-10-23,2026-10-23,Closed,P2 - High,Email,Elena Ruiz,0,2,No,No delay,1.0
+TKT-4297,C09,2026-10-23,,Open,P3 - Medium,Network,Priya Natarajan,8,5,Yes,Waiting on vendor,3.5
+TKT-4298,C01,2026-10-23,2026-10-26,Closed,P2 - High,Network,Jasmine Ford,3,2,Yes,Escalated to Tier 2,4.5
+TKT-4299,C01,2026-10-23,,Open,P1 - Critical,Network,Dave Kowalski,8,1,Yes,Escalated to Tier 2,4.5
+TKT-4300,C07,2026-10-26,,Open,P3 - Medium,Hardware,Jasmine Ford,5,5,No,No delay,1.25
+TKT-4301,C03,2026-10-26,2026-10-27,Closed,P4 - Low,Hardware,Tom Ahn,1,10,No,No delay,1.5
+TKT-4302,C06,2026-10-26,,Open,P2 - High,Software,Priya Natarajan,5,2,Yes,Technician workload,4.25
+TKT-4303,C04,2026-10-26,,Open,P3 - Medium,Password / Access,Marcus Bell,5,5,No,No delay,0.25
+TKT-4304,C08,2026-10-26,,Open,P3 - Medium,Hardware,Tom Ahn,5,5,No,No delay,1.5
+TKT-4305,C06,2026-10-27,2026-10-27,Closed,P3 - Medium,Email,Elena Ruiz,0,5,No,No delay,0.75
+TKT-4306,C09,2026-10-27,2026-10-28,Closed,P1 - Critical,Security,Dave Kowalski,1,1,No,No delay,3.25
+TKT-4307,C02,2026-10-27,,Open,P1 - Critical,Network,Jasmine Ford,4,1,Yes,Waiting on vendor,4.25
+TKT-4308,C05,2026-10-27,2026-10-29,Closed,P3 - Medium,Password / Access,Marcus Bell,2,5,No,No delay,0.5
+TKT-4309,C05,2026-10-27,,Open,P3 - Medium,Network,Elena Ruiz,4,5,No,No delay,1.0
+TKT-4310,C08,2026-10-28,2026-10-30,Closed,P2 - High,Security,Tom Ahn,2,2,No,No delay,3.75
+TKT-4311,C03,2026-10-28,,Open,P4 - Low,Printer,Priya Natarajan,3,10,No,No delay,1.0
+TKT-4312,C02,2026-10-28,2026-10-29,Closed,P2 - High,Password / Access,Elena Ruiz,1,2,No,No delay,0.25
+TKT-4313,C03,2026-10-28,2026-10-30,Closed,P2 - High,Password / Access,Elena Ruiz,2,2,No,No delay,0.5
+TKT-4314,C05,2026-10-28,,Open,P3 - Medium,Password / Access,Elena Ruiz,3,5,No,No delay,0.25
+TKT-4315,C01,2026-10-29,,Open,P3 - Medium,Password / Access,Jasmine Ford,2,5,No,No delay,0.25
+TKT-4316,C05,2026-10-29,,Open,P3 - Medium,Software,Jasmine Ford,2,5,No,No delay,1.25
+TKT-4317,C08,2026-10-29,,Open,P3 - Medium,Printer,Tom Ahn,2,5,No,No delay,1.25
+TKT-4318,C01,2026-10-29,,Open,P4 - Low,Password / Access,Elena Ruiz,2,10,No,No delay,0.5
+TKT-4319,C01,2026-10-29,,Open,P1 - Critical,Network,Elena Ruiz,2,1,Yes,Escalated to Tier 2,3.75
+TKT-4320,C01,2026-10-30,,Open,P3 - Medium,Password / Access,Priya Natarajan,1,5,No,No delay,0.25
+TKT-4321,C08,2026-10-30,,Open,P1 - Critical,Software,Jasmine Ford,1,1,No,No delay,2.25
+TKT-4322,C01,2026-10-30,,Open,P3 - Medium,Hardware,Priya Natarajan,1,5,No,No delay,1.5
+TKT-4323,C01,2026-10-30,,Open,P4 - Low,Email,Priya Natarajan,1,10,No,No delay,1.25
+TKT-4324,C01,2026-10-30,,Open,P3 - Medium,Password / Access,Elena Ruiz,1,5,No,No delay,0.5
+TKT-4325,C07,2026-10-30,,Open,P3 - Medium,Password / Access,Marcus Bell,1,5,No,No delay,0.25
+TKT-4326,C01,2026-10-30,,Open,P2 - High,Network,Tom Ahn,1,2,No,No delay,4.0
+TKT-4327,C01,2026-10-30,,Open,P1 - Critical,Network,Marcus Bell,1,1,No,No delay,1.0
+TKT-4328,C03,2026-10-31,,Open,P3 - Medium,Software,Tom Ahn,0,5,No,No delay,0.75
+TKT-4329,C05,2026-10-31,,Open,P3 - Medium,Network,Marcus Bell,0,5,No,No delay,2.25
