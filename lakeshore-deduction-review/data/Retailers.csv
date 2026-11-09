@@ -1,0 +1,6 @@
+Retailer_ID,Retailer_Name,Channel,Region,Dispute_Window_Days,Account_Manager
+R01,Prairie Fresh Markets,Supercenter,Midwest,60,Dana Kowalski
+R02,Lone Star Grocers,Grocery,Texas,90,Luis Garza
+R03,Heartland Foods Distribution,Wholesale Distributor,Midwest,90,Mark Brennan
+R04,Great Lakes Grocers Co-op,Wholesale Distributor,Great Lakes,90,Mark Brennan
+R05,Riverbend Markets,Grocery,Midwest,60,Dana Kowalski
